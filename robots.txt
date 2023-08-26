@@ -8,3 +8,5 @@ Disallow:
 
 # some line
 # this is a line has been added to demonstrate the usages of 'git pull' command
+# this is a line has been added to demonstrate the usages of 'git push' command
+
